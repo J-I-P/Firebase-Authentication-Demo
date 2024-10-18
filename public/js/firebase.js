@@ -1,10 +1,10 @@
 // Initialize Firebase
 var config = {
-  apiKey: "AIzaSyD_cHmRKaRmML9SdYfcHq2wPsEY5c4TQks",
-  authDomain: "fir-demo-2a2b1.firebaseapp.com",
-  databaseURL: "https://fir-demo-2a2b1.firebaseio.com",
-  projectId: "fir-demo-2a2b1",
-  storageBucket: "fir-demo-2a2b1.appspot.com",
-  messagingSenderId: "549839046091"
+	apiKey: "AIzaSyCApZI2sWqnKMH9RyM3--2zzg9QPhXPyH8",
+	authDomain: "e-a-g-b46f8.firebaseapp.com",
+	projectId: "e-a-g-b46f8",
+	appId: "e-a-g-b46f8"
+//   storageBucket: "fir-demo-2a2b1.appspot.com",
+//   messagingSenderId: "549839046091"
 };
 firebase.initializeApp(config);
